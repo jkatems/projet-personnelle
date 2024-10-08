@@ -1,0 +1,11 @@
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe.config
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\bin\Debug\bibliothèque.pdb
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csprojResolveAssemblyReference.cache
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Biblithèque.resources
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Properties.Resources.resources
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.GenerateResource.Cache
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.exe
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.pdb
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.loading.resources
+c:\users\gym\documents\visual studio 2012\Projects\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Form2.resources
